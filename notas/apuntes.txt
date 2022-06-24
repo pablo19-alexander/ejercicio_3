@@ -1,0 +1,5 @@
+- ¿como calcullar la diferencia salariar de tu pais?
+
+- array de paises = [personas]
+- array de personas individuales = [name, salary]
+- analisis = total, promedio, mediana, general, top 10%
