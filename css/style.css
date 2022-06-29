@@ -19,8 +19,9 @@
 }
 
 .title-header {
+    width: 65%;
     padding: 1% 5%;
-    margin: 16px 26%;
+    margin: 0 auto;
     text-align: center;
     background-color: rgba(255, 48, 255, 0.56);
     border-radius: 5px;
